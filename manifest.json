@@ -1,0 +1,14 @@
+{
+  "name": "AllPageList",
+  "manifest_version": 3,
+  "version": "0.1",
+  "description": "active window no tab ga list ni naru",
+  "permissions": [
+    "tabs",
+    "scripting"
+  ],
+  "action":{
+    "default_popup": "popup.html"
+  }
+
+}
